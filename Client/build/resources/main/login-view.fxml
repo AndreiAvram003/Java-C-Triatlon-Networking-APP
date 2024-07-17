@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<AnchorPane prefHeight="300.0" prefWidth="300.0" style="-fx-background-color: #f0f0f0; -fx-padding: 20;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="presentation.LoginController">
+
+    <ImageView>
+        <Image url="/triatlon.jpg/" />
+
+    </ImageView>
+
+    <VBox alignment="CENTER" prefHeight="300.0" prefWidth="340.0" spacing="10.0" style="-fx-padding: 0 50 0 50;">
+
+        <Label style="-fx-font-weight: bold;" text="Name:" />
+        <TextField fx:id="usernameField" promptText="Enter your name" />
+
+        <Label style="-fx-font-weight: bold;" text="Password:" />
+        <PasswordField fx:id="passwordField" promptText="Enter your password" />
+
+        <Button onAction="#handleLogin" style="-fx-background-color: #4CAF50; -fx-text-fill: #ffffff; -fx-font-weight: bold;" text="Log In" />
+
+
+        <Label fx:id="statusLabel" style="-fx-text-fill: #d32f2f;" text="" />
+
+    </VBox>
+
+</AnchorPane>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #f0f0f0; -fx-padding: 20;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="presentation.MainController">
+
+    <VBox spacing="10" AnchorPane.leftAnchor="20" AnchorPane.topAnchor="20">
+        <Label fx:id="helloLabel" text="" style="-fx-text-fill: #1976D2; -fx-font-size: 24; -fx-font-weight: bold;"/>
+        <HBox spacing="10">
+            <Label text="No. of points:"/>
+            <TextField fx:id="pointsTextField"/>
+        </HBox>
+        <!-- TableView pentru rezultate -->
+        <TableView fx:id="tableViewResults" prefHeight="200.0" prefWidth="600.0">
+            <columns>
+                <TableColumn fx:id="tableColumnResultParticipantName" prefWidth="150.0" text="Name"/>
+                <TableColumn fx:id="tableColumnResultParticipantPoints" prefWidth="150.0" text="PointsAtThisTrial"/>
+            </columns>
+        </TableView>
+
+        <!-- TableView pentru participanți -->
+        <TableView fx:id="tableView" prefHeight="200.0" prefWidth="600.0">
+            <columns>
+                <TableColumn fx:id="tableColumnParticipantName" prefWidth="150.0" text="Name"/>
+                <TableColumn fx:id="tableColumnParticipantPoints" prefWidth="150.0" text="TotalPoints"/>
+            </columns>
+        </TableView>
+
+        <!-- HBox pentru introducerea numărului de puncte -->
+
+        <!-- Butoanele -->
+        <HBox spacing="10">
+            <Button onAction="#addResult" text="Add Result" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 14px;"/>
+            <Button onAction="#viewReport" text="View Report" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 14px;"/>
+            <Button onAction="#logout" text="Log Out" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 14px;"/>
+        </HBox>
+    </VBox>
+
+</AnchorPane>
