@@ -1,0 +1,17 @@
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\bin\Debug\net6.0\Networking.deps.json
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\bin\Debug\net6.0\Networking.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\bin\Debug\net6.0\Networking.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\bin\Debug\net6.0\Model.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\bin\Debug\net6.0\Service.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\bin\Debug\net6.0\Model.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\bin\Debug\net6.0\Service.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.csproj.CopyComplete
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\refint\Networking.dll
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\Networking.pdb
+C:\Users\Andrei\Desktop\Faculta\MPP\mpp-proiect-csharp-AndreiAvram003\TriatlonNetwork\Networking\obj\Debug\net6.0\ref\Networking.dll
